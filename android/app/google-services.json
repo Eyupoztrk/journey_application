@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869880293877",
+    "project_id": "journeyapp-82179",
+    "storage_bucket": "journeyapp-82179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869880293877:android:c906ddfa2c9fefe843d8bc",
+        "android_client_info": {
+          "package_name": "com.soft.journeyapplication.journey_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSNSLp3VbVPr32RXY0Ic3C-YTfD6Ac6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

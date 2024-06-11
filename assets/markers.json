@@ -1,0 +1,162 @@
+[
+  {
+    "id": "route1",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "title": "Boluya giden var mı?",
+    "urgencyLevel": 3,
+    "description": "Bu güzergah San Francisco şehir merkezinden geçmektedir."
+  },
+  {
+    "id": "route2",
+    "latitude": 37.8852,
+    "longitude": -122.2863,
+    "title": "Istanbula Gidecem",
+    "urgencyLevel": 5,
+    "description": "Bu güzergah San Francisco şehir merkezinin dışından geçmektedir."
+  },
+  {
+    "id": "route3",
+    "latitude": 37.5871,
+    "longitude": -122.3200,
+    "title": "Kırşehir tarafına gitmek istiyorum",
+    "urgencyLevel": 2,
+    "description": "Bu güzergah park alanından geçmektedir."
+  },
+  {
+    "id": "route4",
+    "latitude": 37.9285,
+    "longitude": -122.5423,
+    "title": "Mamak Misket Mahellesine gidecem",
+    "urgencyLevel": 4,
+    "description": "Bu güzergah deniz kenarından geçmektedir."
+  },
+  {
+    "id": "route5",
+    "latitude": 37.3426,
+    "longitude": -121.9101,
+    "title": "Altındağa atar mısınız?",
+    "urgencyLevel": 1,
+    "description": "Bu güzergah iş merkezi bölgesinden geçmektedir."
+  },
+  {
+    "id": "route6",
+    "latitude": 37.5079,
+    "longitude": -122.2605,
+    "title": "Karşıya kadıköye geçeçecem yol üstü atabilecek var mı?",
+    "urgencyLevel": 3,
+    "description": "Bu güzergah alışveriş merkezine yakın geçmektedir."
+  },
+  {
+    "id": "route7",
+    "latitude": 37.8219,
+    "longitude": -122.4783,
+    "title": "Esenyurt muhtarlığa atabilir misiniz",
+    "urgencyLevel": 2,
+    "description": "Bu güzergah tarihi binaların yanından geçmektedir."
+  },
+  {
+    "id": "route8",
+    "latitude": 37.3855,
+    "longitude": -122.0839,
+    "title": "Acil karşıya geçmem lazım 3. köprü tarafından",
+    "urgencyLevel": 4,
+    "description": "Bu güzergah şehir dışına doğru uzanmaktadır."
+  },
+  {
+    "id": "route9",
+    "latitude": 37.7885,
+    "longitude": -122.4052,
+    "title": "Sıhhıyeye atabilir misiniz",
+    "urgencyLevel": 3,
+    "description": "Bu güzergah San Francisco şehir merkezine yakın bir konumdadır."
+  },
+  {
+    "id": "route10",
+    "latitude": 37.4893,
+    "longitude": -122.2240,
+    "title": "Üsküdar belediyesinin oraya gidecem",
+    "urgencyLevel": 5,
+    "description": "Bu güzergah şehir dışındaki doğal alanlardan geçmektedir."
+  },
+  {
+    "id": "route11",
+    "latitude": 40.6578,
+    "longitude": 31.748,
+    "title": "Boluya giden var mı?",
+    "urgencyLevel": 3,
+    "description": "Bu güzergah Bolu şehir merkezinden geçmektedir."
+  },
+  {
+    "id": "route12",
+    "latitude": 41.0082,
+    "longitude": 28.9784,
+    "title": "Istanbula Gidecem",
+    "urgencyLevel": 5,
+    "description": "Bu güzergah İstanbul şehir merkezinin dışından geçmektedir."
+  },
+  {
+    "id": "route13",
+    "latitude": 39.1425,
+    "longitude": 34.1709,
+    "title": "Kırşehir tarafına gitmek istiyorum",
+    "urgencyLevel": 2,
+    "description": "Bu güzergah park alanından geçmektedir."
+  },
+  {
+    "id": "route14",
+    "latitude": 39.9208,
+    "longitude": 32.8541,
+    "title": "Mamak Misket Mahallesine gidecem",
+    "urgencyLevel": 4,
+    "description": "Bu güzergah deniz kenarından geçmektedir."
+  },
+  {
+    "id": "route15",
+    "latitude": 39.9334,
+    "longitude": 32.8597,
+    "title": "Altındağa atar mısınız?",
+    "urgencyLevel": 1,
+    "description": "Bu güzergah iş merkezi bölgesinden geçmektedir."
+  },
+  {
+    "id": "route16",
+    "latitude": 40.981,
+    "longitude": 29.108,
+    "title": "Karşıya kadıköye geçeçecem yol üstü atabilecek var mı?",
+    "urgencyLevel": 3,
+    "description": "Bu güzergah alışveriş merkezine yakın geçmektedir."
+  },
+  {
+    "id": "route17",
+    "latitude": 41.049,
+    "longitude": 28.635,
+    "title": "Esenyurt muhtarlığa atabilir misiniz",
+    "urgencyLevel": 2,
+    "description": "Bu güzergah tarihi binaların yanından geçmektedir."
+  },
+  {
+    "id": "route18",
+    "latitude": 41.1818,
+    "longitude": 29.0475,
+    "title": "Acil karşıya geçmem lazım 3. köprü tarafından",
+    "urgencyLevel": 4,
+    "description": "Bu güzergah şehir dışına doğru uzanmaktadır."
+  },
+  {
+    "id": "route19",
+    "latitude": 39.9208,
+    "longitude": 32.8541,
+    "title": "Sıhhıyeye atabilir misiniz",
+    "urgencyLevel": 3,
+    "description": "Bu güzergah Ankara şehir merkezine yakın bir konumdadır."
+  },
+  {
+    "id": "route20",
+    "latitude": 41.0247,
+    "longitude": 29.0466,
+    "title": "Üsküdar belediyesinin oraya gidecem",
+    "urgencyLevel": 5,
+    "description": "Bu güzergah şehir dışındaki doğal alanlardan geçmektedir."
+  }
+]
